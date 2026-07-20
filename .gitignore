@@ -1,1 +1,4 @@
 config.h
+
+# Proprietary / credential-bearing docs — never push to this public repo
+*.pdf
